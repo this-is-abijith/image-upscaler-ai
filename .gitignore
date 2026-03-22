@@ -1,0 +1,22 @@
+# ── Python ────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# ── Real-ESRGAN binary & models (large files — download separately) ──
+backend/realesrgan-bin/
+
+# ── Node ──────────────────────────────────────────────────────
+frontend/node_modules/
+frontend/build/
+
+# ── OS ────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Temp files from upscaling ─────────────────────────────────
+*.tmp
+backend/weights/
