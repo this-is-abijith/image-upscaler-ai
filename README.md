@@ -2,7 +2,7 @@
 
 AI-powered image upscaler. Enlarge images up to 4× using Real-ESRGAN running locally on your GPU.
 
-![PixApic UI](./assets/screenshot.png)
+![PixApic UI](/assets/Screenshot.png)
 
 ---
 
